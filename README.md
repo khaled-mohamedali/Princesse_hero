@@ -1,4 +1,4 @@
-# [Your Game Name] - A Platformer Adventure
+# The Hero Princesse - A Platformer Adventure
 
 ![Your Game Screenshot](screenshot.png)  
 
